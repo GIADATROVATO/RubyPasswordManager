@@ -1,0 +1,15 @@
+# Ignora il file con le credenziali cifrate
+credenziali.dat
+
+# Ignora file temporanei di editor e sistema
+*.swp
+*.swo
+*.tmp
+*.bak
+
+# Ignora file di log
+*.log
+
+# Ignora cartelle di sistema (Mac/Windows)
+.DS_Store
+Thumbs.db
